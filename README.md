@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="Agents   roles update roles" src="https://github.com/davidrosa01/post-install-config/assets/119774564/f9bf42e4-5f3b-440a-bdd9-a19daeb4f4ea">
 </p>
 <p>
 
@@ -54,7 +54,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="Add new departmentss" src="https://github.com/davidrosa01/post-install-config/assets/119774564/ac157577-83a4-4fb9-95f3-de6242c2481b">
 </p>
 
 <p>
@@ -74,7 +74,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="agents   add new team" src="https://github.com/davidrosa01/post-install-config/assets/119774564/bfff16fc-9734-44f3-b209-1d9a74553770">
 </p>
 <p>
 
@@ -92,7 +92,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="registration required" src="https://github.com/davidrosa01/post-install-config/assets/119774564/7db02b80-d407-4d66-b3da-84de3c9b8d46">
 </p>
 
 <p>
@@ -109,7 +109,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%"  alt="Add New Agent" src="https://github.com/davidrosa01/post-install-config/assets/119774564/250705f8-4e18-4068-930c-184ae0bc93a4">
 </p>
 <p>
 
@@ -130,7 +130,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%"  alt="Users" src="https://github.com/davidrosa01/post-install-config/assets/119774564/9af511f7-9e7f-40d3-ba00-a066ceb1f44f">
 </p>
 <p>
 
@@ -151,7 +151,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="sla " src="https://github.com/davidrosa01/post-install-config/assets/119774564/b3de97c7-e50d-4334-b72d-c0f3bf835115">
 </p>
 <p>
 
@@ -175,7 +175,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%"  alt="help topic" src="https://github.com/davidrosa01/post-install-config/assets/119774564/bb51484a-03dd-4fce-8f4e-7b654892a238">
 </p>
 <p>
 
