@@ -154,6 +154,47 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+7. Configure SLA:
+    - Locate and access the Admin Panel section of the system
+    - Navigate to SLA Management:
+       - Within the Admin Panel, find the "Manage" section
+       - Look for the option or tab labeled "SLA" or "Service Level Agreements"
+    - Configure SLAs:
+       - In the SLA Management section, you will see a list of existing SLAs or the option to create new ones
+       - Review the available SLAs and their settings
+    - Create or Edit SLAs:
+      - If you need to create a new SLA, click on the "Add New SLA Plan" button to start the creation process.
+      - If you want to edit an existing SLA, select the desired SLA from the list
+    - Set SLA Parameters:
+      - Within the SLA creation or editing interface, you can define various parameters, such as response time, resolution time, priority levels, escalation rules, and notifications
+      - Customize these parameters based on your organization's service level targets and requirements
+    - Save and Apply Changes
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+8. Configure Help Topics:
+    - Navigate to Help Topics Management:
+       - Within the Admin Panel, find the "Manage" section
+       - Look for the option or tab labeled "Help Topics"
+    - Manage Help Topics:
+       - In the Help Topics Management section, you will see a list of existing help topics or the option to create new ones
+       - Review the available help topics and their settings
+    - Create a New Help Topic:
+       - To create a new help topic, click on the "Add New Help Topic" button to start the creation process.
+       - Provide a title and description for the help topic
+    - Edit Existing Help Topics:
+      - If you want to edit an existing help topic, select the desired topic from the list
+    - Customize Help Topic Details:
+        - Within the help topic creation or editing interface, you can customize the details such as the title, description, content, tags, category, and visibility settings.
+        - Add relevant information and format the content as needed
+    - Save and Apply Changes
+      
 </p>
 <br />
